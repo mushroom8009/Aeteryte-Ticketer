@@ -23,6 +23,8 @@ Bottox<br>
 minionがサポートしていないため、選択項目の情報を取得できません。<br>
 そのため成功率は100％ではありません。<br>
 上記のため、ある程度の誤動作はご了承ください。<br>
+また、オンオフできるものではありません。<br>
+不要な場合は削除するか、profilerを使って下さい。<br>
 minion実装の可能性を考慮して、とくにアップデートの予定はありません。<br>
 各拡張ごとのエーテライトは全て開放済みである必要があります。<br>
 不要な場合は、フォルダごと削除するかprofilerでオフにしてください。<br>
@@ -53,6 +55,8 @@ Addons not listed here have not been tested<br>
 module cannot retrieve information on the selections<br>
 because minion does not support them.<br>
 Therefore, the success rate is not 100%.<br>
+Also, it is not something that can be turned on or off<br>
+If you do not need it, please remove it or use profiler<br>
 This should originally be implemented by MINION.<br>
 Please allow for a certain degree of malfunction.<br>
 All aetherytes for each expansion to FFXIV must be open<br>
