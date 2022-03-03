@@ -27,7 +27,6 @@ minionがサポートしていないため、選択項目の情報を取得で�
 不要な場合は削除するか、profilerを使って下さい。<br>
 minion実装の可能性を考慮して、とくにアップデートの予定はありません。<br>
 各拡張ごとのエーテライトは全て開放済みである必要があります。<br>
-不要な場合は、フォルダごと削除するかprofilerでオフにしてください。<br>
 ハウジングエリアへのテレポはサポートしていません。<br>
 残念ながらAHのワンクリックテレポは正常に動作しません。<br>
 ただし、GCへの移動とMBモードでのテレポでは動作します。<br>
@@ -60,8 +59,6 @@ If you do not need it, please remove it or use profiler<br>
 This should originally be implemented by MINION.<br>
 Please allow for a certain degree of malfunction.<br>
 All aetherytes for each expansion to FFXIV must be open<br>
-If you do not need it,<br>
-delete the entire folder or turn it off in the profiler.<br>
 Teleport to housing areas is not supported.<br>
 Unfortunately, AH's one-click teleport does not work properly.<br>
 However, the transfer to GC and teleportation in MB mode will work.
