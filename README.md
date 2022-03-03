@@ -1,5 +1,5 @@
 [![Downloads](https://img.shields.io/github/downloads/mushroom8009/Aeteryte-Ticketer/total.svg)](https://github.com/mushroom8009/Aeteryte-Ticketer/releases)
-# Aeteryte Ticketer
+# Aetheryte Ticketer
 
 # 説明
 Aetheryte Ticketerはテレポのユーザー操作を再現します。<br>
